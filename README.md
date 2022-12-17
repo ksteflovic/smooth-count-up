@@ -1,5 +1,7 @@
 # Smooth count up
 
+![Ukazka](/img/countup.gif)
+
 A simple animated text with number that counts up, slowing down at the end.
 
 **Responsive design:**
@@ -7,8 +9,6 @@ A simple animated text with number that counts up, slowing down at the end.
 
 **Functionality:**
 - Vanilla JS
-
-![Ukazka](/img/countup.gif)
 
 I made this function for my personal website.
 
