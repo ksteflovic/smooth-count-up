@@ -8,8 +8,6 @@ A simple animated text with number that counts up, slowing down at the end.
 **Functionality:**
 - Vanilla JS
 
-Available for one coffee:
-
 ![Ukazka](/img/countup.gif)
 
 I made this function for my personal website.
