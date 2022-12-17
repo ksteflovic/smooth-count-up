@@ -12,4 +12,4 @@ A simple animated text with number that counts up, slowing down at the end. At t
 
 I made this function for my own website.
 
-<img src="img/bmc-button.png" alt="drawing" width="150"/>
+<a href="https://www.buymeacoffee.com/pajka" target="_blank"><img src="img/bmc-button.png" alt="drawing" width="150"/></a>
